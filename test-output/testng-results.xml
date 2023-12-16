@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-16T12:14:11 IST" name="Default suite" finished-at="2023-12-16T12:14:11 IST" duration-ms="154">
+    <groups>
+    </groups>
+    <test started-at="2023-12-16T12:14:11 IST" name="Default test" finished-at="2023-12-16T12:14:11 IST" duration-ms="154">
+      <class name="Jenkins_Package.Jenkins_Sample1">
+        <test-method signature="jenkinsMethod1()[pri:0, instance:Jenkins_Package.Jenkins_Sample1@1a942c18]" started-at="2023-12-16T12:14:11 IST" name="jenkinsMethod1" finished-at="2023-12-16T12:14:11 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jenkinsMethod1 -->
+      </class> <!-- Jenkins_Package.Jenkins_Sample1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
